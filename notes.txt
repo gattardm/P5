@@ -1,0 +1,10 @@
+fonctions :
+	inventaire
+	recherche
+	commande
+	Transport
+	Facturation
+	Informatif
+
+
+
