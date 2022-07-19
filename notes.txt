@@ -7,4 +7,8 @@ fonctions :
 	Informatif
 
 
+Inclure dans le SAW, la BBA et la TBA; ajout de couches de cohérences fonctionnelles et techniques afin d'améliorer les performances, de maintenir le système...
+
+_reprendre le diagramme page10, le synthétiser et l'alléger en enlevant des composants non-essentiels à la description prélimliminaire. Le modifier dans les  spéc.
+_lever la mention DIFFUSION RESTREINTE
 
